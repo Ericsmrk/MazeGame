@@ -1,3 +1,6 @@
-﻿  MazeGame.cpp
-C:\Users\Erics\Desktop\Spring 2021\CSci 115\MazeGame\MazeGame\MazeGame.cpp(258,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  MazeGame.vcxproj -> C:\Users\Erics\Desktop\Spring 2021\CSci 115\MazeGame\x64\Debug\MazeGame.exe
+﻿  Map.cpp
+  MazeGame.cpp
+C:\Users\Erics\Documents\GitHub\MazeGame\MazeGame\MazeGame.cpp(258,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Erics\Documents\GitHub\MazeGame\MazeGame\Map.cpp(574): warning C4715: 'Map::getPlayerCounter': not all control paths return a value
+  MazeGame.vcxproj -> C:\Users\Erics\Documents\GitHub\MazeGame\x64\Debug\MazeGame.exe
