@@ -118,8 +118,8 @@ Eric Smrkovsky - (EricSmrkovsky@mail.fresnostate.edu) - email
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* California State University Fresno, Computer Science Department [http://www.fresnostate.edu/csm/csci/]()
-* Dr Hubert Cecotti, Assistant Professor in Computer Science [https://sites.google.com/site/hubertcecotti/home]()
+* California State University Fresno, Computer Science Department [http://www.fresnostate.edu/csm/csci/](https://sites.google.com/site/hubertcecotti/home)
+* Dr Hubert Cecotti, Assistant Professor in Computer Science [https://sites.google.com/site/hubertcecotti/home](https://sites.google.com/site/hubertcecotti/home)
 <!-- * []() -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
