@@ -71,7 +71,7 @@ WORLDS
 <!-- HOW TO USE MAP GAME -->
 ## How to use
 1. load game by clicking on MazeGame.sln
-2. choose debug more or regular mode by pressing 1 or 0
+2. choose debug mode or regular mode by pressing 1 or 0
 
 	If you choose debug mode  
 	- choose a map by pressing 1, 2, 3, 4, or 5  
