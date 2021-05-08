@@ -1,0 +1,3 @@
+﻿  MazeGame.cpp
+C:\Users\Erics\Desktop\Spring 2021\CSci 115\MazeGame\MazeGame\MazeGame.cpp(258,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MazeGame.vcxproj -> C:\Users\Erics\Desktop\Spring 2021\CSci 115\MazeGame\x64\Debug\MazeGame.exe

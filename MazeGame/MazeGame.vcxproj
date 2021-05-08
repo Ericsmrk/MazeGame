@@ -139,7 +139,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GraphAM.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="Matrix.cpp" />
     <ClCompile Include="MazeGame.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PriorityQueue.cpp" />
+    <ClCompile Include="Queue.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GraphAM.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PriorityQueue.h" />
+    <ClInclude Include="Queue.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="HowToUse.txt" />
+    <Text Include="Notes.txt" />
+    <Text Include="README.txt" />
+    <Text Include="Worlds\Debug.txt" />
+    <Text Include="Worlds\World1.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
